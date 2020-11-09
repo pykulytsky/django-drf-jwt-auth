@@ -3,7 +3,7 @@
 
 ## This is a Django app to add JWT authentication to your DRF project. 
 
-** Quick start
+** Quick start**
 -----------
 1. Move 'authentication' directory to your project directory.
 
