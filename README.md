@@ -1,4 +1,3 @@
-=====
 #DRF JWT Authentication(Json Web Token)
 =====
 
